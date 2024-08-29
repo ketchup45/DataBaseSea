@@ -1,6 +1,6 @@
 数据库原理课程设计，海洋浮冰位置记录系统
 
-使用Flask + vue(node.js) + mysql(navicat)
+使用 Flask + vue(node.js) + mysql(navicat)
 
 参考项目: 
 
