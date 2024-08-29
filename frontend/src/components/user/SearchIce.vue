@@ -139,7 +139,7 @@ export default {
                 securityJsCode: "5558753d6f93318d89ccfeec3d31c873",
             };
             AMapLoader.load({
-                key: "ab415f4935843c97d62642865f5102b4", // 申请好的Web端开发者Key，首次调用 load 时必填
+                key: "ab41xxxx3584xxxxd626xxxx5f51xxxx", // 申请好的Web端开发者Key，首次调用 load 时必填
                 version: "2.0", // 指定要加载的 JSAPI 的版本，缺省时默认为 1.4.15
                 plugins: ["AMap.PolylineEditor"], //需要使用的的插件列表，如比例尺'AMap.Scale'，支持添加多个如：['...','...']
             })
