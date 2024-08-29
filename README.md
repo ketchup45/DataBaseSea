@@ -1,5 +1,7 @@
 数据库原理课程设计，海洋浮冰位置记录系统
 
+使用Flask + vue(node.js) + mysql(navicat)
+
 参考项目: 
 
 https://github.com/wfloveiu/HEU-Database-course-design/tree/master/HEU-Database-course-design
